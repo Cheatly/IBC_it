@@ -1,0 +1,149 @@
+/* Tab bar icons */
+i.home {
+    width: 28px;
+    height: 30px;
+    background-image: url('icons/home.png');
+}
+.active i.home {
+    background-image: url('icons/home_active.png');
+}
+i.sport {
+    width: 28px;
+    height: 30px;
+    background-image: url('icons/sport.png');
+}
+.active i.sport {
+    background-image: url('icons/sport_active.png');
+}
+i.tv {
+    width: 28px;
+    height: 30px;
+    background-image: url('icons/tv.png');
+}
+.active i.tv {
+    background-image: url('icons/tv_active.png');
+}
+i.music {
+    width: 28px;
+    height: 30px;
+    background-image: url('icons/music.png');
+}
+.active i.music {
+    background-image: url('icons/music_active.png');
+}
+i.star {
+    width: 28px;
+    height: 30px;
+    background-image: url('icons/star.png');
+}
+.active i.star {
+    background-image: url('icons/star_active.png');
+}
+i.info {
+    width: 28px;
+    height: 30px;
+    background-image: url('icons/info.png');
+}
+.active i.info {
+    background-image: url('icons/info_active.png');
+}
+i.about {
+    width: 28px;
+    height: 30px;
+    background-image: url('icons/info_white.png');
+}
+i.close {
+    width: 23px;
+    height: 23px;
+    background-image: url('icons/close.png');
+}
+i.app_icon {
+    width: 43px;
+    height: 43px;
+    margin-top: -3px;
+    background-image: url('icons/icon.png');
+    border: solid 1px #73B9FF;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+}
+.app_icon_big{
+    max-width:90%;
+}
+
+.badge.badge-orange {
+    background: #73B9FF;
+    color: #fff;
+}
+
+.navbar {
+
+    background: #f7f7f8;
+    border-bottom: 1px solid #c4c4c4;
+}
+
+.list-block .accordion-item .content-block, .list-block .accordion-item .list-block {
+    border-bottom: 1px solid #c4c4c4;
+    padding-bottom: 20px;
+}
+
+.list-block .item-title {
+    font-weight: bolder;
+}
+
+.searchbar {
+    background:#f7f7f8;
+}
+.searchbar .searchbar-cancel {
+    color: #73B9FF;
+}
+.navbar {
+    background: #73B9FF;
+    border-bottom: 1px solid #c4c4c4;
+}
+
+.navbar .center {
+    font-weight:bolder;
+    font-size: 16px;
+    color: white;
+}
+
+.list-block {
+    margin: 0px;
+}
+
+.center{
+    text-align: center;
+}
+.fright{
+    float:right;
+}
+.fleft{
+    float:left;
+}
+
+.desc{
+    margin-bottom: 10px;
+}
+
+#about_law{
+    font-size: 10px;
+}
+
+.row{
+    /*max-height: 400px;*/
+}
+
+strong.wow{
+    color:#26664B;
+    font-size: 25px;
+}
+
+.button.active {
+    background: #73B9FF;
+    border: #73B9FF;
+    color: #fff;
+    font-size:20px;
+    font-weight: bold;
+}
