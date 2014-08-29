@@ -60,7 +60,7 @@ var data = new Array();
 
 data[l]= new Data(l);
 
-data[l].info.about="<center>La 'sfida del secchio ghiacciato', diventata virale, è stata promossa dalla ALS Association, l'associazione statunitense che si occupa di Sla, la Sclerosi laterale amiotrofica. Le secchiate d'acqua gelata per la Sla 'funzionano' e stanno facendo impennare le donazioni, sì, negli Stati Uniti. In Italia purtroppo il fenomeno si è trasformato in un divertente gavettone postato sui social senza però avere lo stesso successo in termini di donazioni.<br/><br/>L'idea dietro questa app. è di raccogliere fondi semplicemente scaricandola.<br/><br/><strong class='wow'>Ogni 1000 download donerò 1€ all'Associazione A.I.S.L.A.</strong><br/><small>Come prova, appena raggiungerò quota 1000 download posterò una foto con la ricevuta della donazione.</small><br/></br/>Quindi grazie per il tuo download!!! <strong>Stai dando un piccolo aiuto</strong>, ma se vuoi fare di più puoi contattarmi per incrementare la cifra.<br/><a class='button button-big active ext-link' href='mailto:ibc@kogel.it'>Contattami ora!</a><br/><center><img src='css/icons/init.png' class='app_icon_big'></img></center>";
+data[l].info.about="<center>La 'sfida del secchio ghiacciato', diventata virale, è stata promossa dalla ALS Association, l'associazione statunitense che si occupa di Sla, la Sclerosi laterale amiotrofica. Le secchiate d'acqua gelata per la Sla 'funzionano' e stanno facendo impennare le donazioni, sì, negli Stati Uniti. In Italia purtroppo il fenomeno si è trasformato in un divertente gavettone postato sui social senza però avere lo stesso successo in termini di donazioni.<br/><br/>L'idea dietro questa app. è di raccogliere fondi semplicemente scaricandola.<br/><br/><strong class='wow'>Ogni 1000 download donerò 1€ all'Associazione A.I.S.L.A.</strong><br/><small>Come prdataova, appena raggiungerò quota 1000 download posterò una foto con la ricevuta della donazione.</small><br/></br/>Quindi grazie per il tuo download!!! <strong>Stai dando un piccolo aiuto</strong>, ma se vuoi fare di più puoi contattarmi per incrementare la cifra.<br/><a class='button button-big active ext-link' href='mailto:ibc@kogel.it'>Contattami ora!</a><br/><center><img src='css/icons/init.png' class='app_icon_big'></img></center>";
 
 data[l].info.about_thanks="Questa applicazione è stata realizzata da <a class='ext-link' target='_blank' href='http://www.kogel.it'>Mirko Gelsomini</a>";
 
@@ -69,7 +69,49 @@ data[l].info.about_law="Disclaimer: In conformità con l'articolo 17 U.S.C. Sezi
 /*-------------------------------------------------------------------------------------------------------*/
 /***********************************/
 data[l].addTv(
+"Maria De Filippi",
+"agU0-gPuWoU"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Belen Rodriguez",
+"RNjhPOCKzFk"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Cristina Chiabotto",
+"RBd0SXJTKqc"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Gianmarco Pozzecco",
+"wp1cw6Xe97M"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Checco Zalone",
+"1NKjIeBnlKg"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Michelle Hunziker",
+"4NpjlTqvClg"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
 "Ben Affleck",
+"eVW6QVkIcqM"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Kledi Kadiu",
 "iuBX9en_OXA"
 );
 /***********************************/
@@ -201,12 +243,6 @@ data[l].addTv(
 /***********************************/
 /***********************************/
 data[l].addTv(
-"Mark Wahlberg",
-"SW1fX64pXGI"
-);
-/***********************************/
-/***********************************/
-data[l].addTv(
 "Jessica Alba",
 "j-cEwgNPAlg"
 );
@@ -322,6 +358,18 @@ data[l].addTv(
 
 
 /**************************************************************************************************/
+/***********************************/
+data[l].addMusic(
+"Francesco Facchinetti",
+"ESP1a4tDBf4"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Luciana Litizzetto",
+"dBuTCSmOCkw"
+);
+/***********************************/
 /***********************************/
 data[l].addMusic(
 "50 Cent",
@@ -654,7 +702,12 @@ data[l].addMusic(
 /***********************************/
 
 /********************************************************************/
-
+/***********************************/
+data[l].addSport(
+"Alessandro (Alex) del Piero",
+"_FH6BaFfmtA"
+);
+/***********************************/
 /***********************************/
 data[l].addSport(
 "Kurt Angle",
@@ -669,20 +722,8 @@ data[l].addSport(
 /***********************************/
 /***********************************/
 data[l].addSport(
-"Chris Jericho",
-"OCyfqxv-OPc"
-);
-/***********************************/
-/***********************************/
-data[l].addSport(
 "Triple H",
 "cHXaXBAh3m4"
-);
-/***********************************/
-/***********************************/
-data[l].addSport(
-"The Undertaker",
-"6WYErW7TKQk"
 );
 /***********************************/
 /***********************************/
@@ -877,7 +918,49 @@ data[l].addSport(
 "I84xK-ARQQQ"
 );
 /***********************************/
-
+/***********************************************************************************************/
+/***********************************/
+data[l].addOther(
+"Matteo Renzi",
+"O618QtaSnnw"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Beatrice Lorenzin",
+"RNjhPOCKzFk"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Andrea Agnelli",
+"DgQIwogQnko"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Adriano Galliani",
+"HqeBPYYXXzc"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Video Divertenti",
+"zoqyuNB9Mdg"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"theShow",
+"2LlYsZPMOfY"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Punti di Vista",
+"0Mca10VYQJY"
+);
+/***********************************/
 /***********************************/
 data[l].addOther(
 "Steve Ballmer",
