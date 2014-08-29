@@ -1,1 +1,1023 @@
-var _0x696d=["\x74\x69\x74\x6C\x65","","\x74\x69\x74\x6C\x65\x5F\x70\x6C\x75\x73","\x64\x65\x73\x63\x72\x69\x70\x74\x69\x6F\x6E","\x69\x6D\x61\x67\x65","\x61\x62\x6F\x75\x74","\x61\x62\x6F\x75\x74\x5F\x74\x68\x61\x6E\x6B\x73","\x61\x62\x6F\x75\x74\x5F\x6C\x61\x77","\x6C\x65\x74\x5F\x75\x73\x5F\x6B\x6E\x6F\x77","\x72\x65\x70\x6F","\x61\x70\x70\x6E\x61\x6D\x65","\x75\x72\x6C","\x6C\x6F\x63\x61\x6C\x65","\x69\x6E\x66\x6F","\x69\x6E\x74\x65\x72\x66\x61\x63\x65","\x74\x76","\x6D\x75\x73\x69\x63","\x73\x70\x6F\x72\x74","\x6F\x74\x68\x65\x72","\x61\x64\x64\x54\x76","\x70\x75\x73\x68","\x61\x64\x64\x4D\x75\x73\x69\x63","\x61\x64\x64\x53\x70\x6F\x72\x74","\x61\x64\x64\x4F\x74\x68\x65\x72","\x69\x74","\x3C\x63\x65\x6E\x74\x65\x72\x3E\x4C\x61\x20\x27\x73\x66\x69\x64\x61\x20\x64\x65\x6C\x20\x73\x65\x63\x63\x68\x69\x6F\x20\x67\x68\x69\x61\x63\x63\x69\x61\x74\x6F\x27\x2C\x20\x64\x69\x76\x65\x6E\x74\x61\x74\x61\x20\x76\x69\x72\x61\x6C\x65\x2C\x20\xE8\x20\x73\x74\x61\x74\x61\x20\x70\x72\x6F\x6D\x6F\x73\x73\x61\x20\x64\x61\x6C\x6C\x61\x20\x41\x4C\x53\x20\x41\x73\x73\x6F\x63\x69\x61\x74\x69\x6F\x6E\x2C\x20\x6C\x27\x61\x73\x73\x6F\x63\x69\x61\x7A\x69\x6F\x6E\x65\x20\x73\x74\x61\x74\x75\x6E\x69\x74\x65\x6E\x73\x65\x20\x63\x68\x65\x20\x73\x69\x20\x6F\x63\x63\x75\x70\x61\x20\x64\x69\x20\x53\x6C\x61\x2C\x20\x6C\x61\x20\x53\x63\x6C\x65\x72\x6F\x73\x69\x20\x6C\x61\x74\x65\x72\x61\x6C\x65\x20\x61\x6D\x69\x6F\x74\x72\x6F\x66\x69\x63\x61\x2E\x20\x4C\x65\x20\x73\x65\x63\x63\x68\x69\x61\x74\x65\x20\x64\x27\x61\x63\x71\x75\x61\x20\x67\x65\x6C\x61\x74\x61\x20\x70\x65\x72\x20\x6C\x61\x20\x53\x6C\x61\x20\x27\x66\x75\x6E\x7A\x69\x6F\x6E\x61\x6E\x6F\x27\x20\x65\x20\x73\x74\x61\x6E\x6E\x6F\x20\x66\x61\x63\x65\x6E\x64\x6F\x20\x69\x6D\x70\x65\x6E\x6E\x61\x72\x65\x20\x6C\x65\x20\x64\x6F\x6E\x61\x7A\x69\x6F\x6E\x69\x2C\x20\x73\xEC\x2C\x20\x6E\x65\x67\x6C\x69\x20\x53\x74\x61\x74\x69\x20\x55\x6E\x69\x74\x69\x2E\x20\x49\x6E\x20\x49\x74\x61\x6C\x69\x61\x20\x70\x75\x72\x74\x72\x6F\x70\x70\x6F\x20\x69\x6C\x20\x66\x65\x6E\x6F\x6D\x65\x6E\x6F\x20\x73\x69\x20\xE8\x20\x74\x72\x61\x73\x66\x6F\x72\x6D\x61\x74\x6F\x20\x69\x6E\x20\x75\x6E\x20\x64\x69\x76\x65\x72\x74\x65\x6E\x74\x65\x20\x67\x61\x76\x65\x74\x74\x6F\x6E\x65\x20\x70\x6F\x73\x74\x61\x74\x6F\x20\x73\x75\x69\x20\x73\x6F\x63\x69\x61\x6C\x20\x73\x65\x6E\x7A\x61\x20\x70\x65\x72\xF2\x20\x61\x76\x65\x72\x65\x20\x6C\x6F\x20\x73\x74\x65\x73\x73\x6F\x20\x73\x75\x63\x63\x65\x73\x73\x6F\x20\x69\x6E\x20\x74\x65\x72\x6D\x69\x6E\x69\x20\x64\x69\x20\x64\x6F\x6E\x61\x7A\x69\x6F\x6E\x69\x2E\x3C\x62\x72\x2F\x3E\x3C\x62\x72\x2F\x3E\x4C\x27\x69\x64\x65\x61\x20\x64\x69\x65\x74\x72\x6F\x20\x71\x75\x65\x73\x74\x61\x20\x61\x70\x70\x2E\x20\xE8\x20\x64\x69\x20\x72\x61\x63\x63\x6F\x67\x6C\x69\x65\x72\x65\x20\x66\x6F\x6E\x64\x69\x20\x73\x65\x6D\x70\x6C\x69\x63\x65\x6D\x65\x6E\x74\x65\x20\x73\x63\x61\x72\x69\x63\x61\x6E\x64\x6F\x6C\x61\x2E\x3C\x62\x72\x2F\x3E\x3C\x62\x72\x2F\x3E\x3C\x73\x74\x72\x6F\x6E\x67\x20\x63\x6C\x61\x73\x73\x3D\x27\x77\x6F\x77\x27\x3E\x4F\x67\x6E\x69\x20\x31\x30\x30\x30\x20\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x20\x64\x6F\x6E\x65\x72\xF2\x20\x31\u20AC\x20\x61\x6C\x6C\x27\x41\x73\x73\x6F\x63\x69\x61\x7A\x69\x6F\x6E\x65\x20\x41\x2E\x49\x2E\x53\x2E\x4C\x2E\x41\x2E\x3C\x2F\x73\x74\x72\x6F\x6E\x67\x3E\x3C\x62\x72\x2F\x3E\x3C\x73\x6D\x61\x6C\x6C\x3E\x43\x6F\x6D\x65\x20\x70\x72\x6F\x76\x61\x2C\x20\x61\x70\x70\x65\x6E\x61\x20\x72\x61\x67\x67\x69\x75\x6E\x67\x65\x72\xF2\x20\x71\x75\x6F\x74\x61\x20\x31\x30\x30\x30\x20\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x20\x70\x6F\x73\x74\x65\x72\xF2\x20\x75\x6E\x61\x20\x66\x6F\x74\x6F\x20\x63\x6F\x6E\x20\x6C\x61\x20\x72\x69\x63\x65\x76\x75\x74\x61\x20\x64\x65\x6C\x6C\x61\x20\x64\x6F\x6E\x61\x7A\x69\x6F\x6E\x65\x2E\x3C\x2F\x73\x6D\x61\x6C\x6C\x3E\x3C\x62\x72\x2F\x3E\x3C\x2F\x62\x72\x2F\x3E\x51\x75\x69\x6E\x64\x69\x20\x67\x72\x61\x7A\x69\x65\x20\x70\x65\x72\x20\x69\x6C\x20\x74\x75\x6F\x20\x64\x6F\x77\x6E\x6C\x6F\x61\x64\x21\x21\x21\x20\x3C\x73\x74\x72\x6F\x6E\x67\x3E\x53\x74\x61\x69\x20\x64\x61\x6E\x64\x6F\x20\x75\x6E\x20\x70\x69\x63\x63\x6F\x6C\x6F\x20\x61\x69\x75\x74\x6F\x3C\x2F\x73\x74\x72\x6F\x6E\x67\x3E\x2C\x20\x6D\x61\x20\x73\x65\x20\x76\x75\x6F\x69\x20\x66\x61\x72\x65\x20\x64\x69\x20\x70\x69\xF9\x20\x70\x75\x6F\x69\x20\x63\x6F\x6E\x74\x61\x74\x74\x61\x72\x6D\x69\x20\x70\x65\x72\x20\x69\x6E\x63\x72\x65\x6D\x65\x6E\x74\x61\x72\x65\x20\x6C\x61\x20\x63\x69\x66\x72\x61\x2E\x3C\x62\x72\x2F\x3E\x3C\x61\x20\x63\x6C\x61\x73\x73\x3D\x27\x62\x75\x74\x74\x6F\x6E\x20\x62\x75\x74\x74\x6F\x6E\x2D\x62\x69\x67\x20\x61\x63\x74\x69\x76\x65\x20\x65\x78\x74\x2D\x6C\x69\x6E\x6B\x27\x20\x68\x72\x65\x66\x3D\x27\x6D\x61\x69\x6C\x74\x6F\x3A\x69\x62\x63\x40\x6B\x6F\x67\x65\x6C\x2E\x69\x74\x27\x3E\x43\x6F\x6E\x74\x61\x74\x74\x61\x6D\x69\x20\x6F\x72\x61\x21\x3C\x2F\x61\x3E\x3C\x62\x72\x2F\x3E\x3C\x63\x65\x6E\x74\x65\x72\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x27\x63\x73\x73\x2F\x69\x63\x6F\x6E\x73\x2F\x69\x6E\x69\x74\x2E\x70\x6E\x67\x27\x20\x63\x6C\x61\x73\x73\x3D\x27\x61\x70\x70\x5F\x69\x63\x6F\x6E\x5F\x62\x69\x67\x27\x3E\x3C\x2F\x69\x6D\x67\x3E\x3C\x2F\x63\x65\x6E\x74\x65\x72\x3E","\x51\x75\x65\x73\x74\x61\x20\x61\x70\x70\x6C\x69\x63\x61\x7A\x69\x6F\x6E\x65\x20\xE8\x20\x73\x74\x61\x74\x61\x20\x72\x65\x61\x6C\x69\x7A\x7A\x61\x74\x61\x20\x64\x61\x20\x3C\x61\x20\x63\x6C\x61\x73\x73\x3D\x27\x65\x78\x74\x2D\x6C\x69\x6E\x6B\x27\x20\x74\x61\x72\x67\x65\x74\x3D\x27\x5F\x62\x6C\x61\x6E\x6B\x27\x20\x68\x72\x65\x66\x3D\x27\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x6B\x6F\x67\x65\x6C\x2E\x69\x74\x27\x3E\x4D\x69\x72\x6B\x6F\x20\x47\x65\x6C\x73\x6F\x6D\x69\x6E\x69\x3C\x2F\x61\x3E","\x44\x69\x73\x63\x6C\x61\x69\x6D\x65\x72\x3A\x20\x49\x6E\x20\x63\x6F\x6E\x66\x6F\x72\x6D\x69\x74\xE0\x20\x63\x6F\x6E\x20\x6C\x27\x61\x72\x74\x69\x63\x6F\x6C\x6F\x20\x31\x37\x20\x55\x2E\x53\x2E\x43\x2E\x20\x53\x65\x7A\x69\x6F\x6E\x65\x20\x31\x30\x37\x2C\x20\x69\x6C\x20\x6D\x61\x74\x65\x72\x69\x61\x6C\x65\x20\x73\x75\x20\x71\x75\x65\x73\x74\x61\x20\x61\x70\x70\x2E\x20\xE8\x20\x64\x69\x73\x74\x72\x69\x62\x75\x69\x74\x6F\x20\x73\x65\x6E\x7A\x61\x20\x70\x72\x6F\x66\x69\x74\x74\x6F\x20\x61\x20\x63\x6F\x6C\x6F\x72\x6F\x20\x63\x68\x65\x20\x68\x61\x6E\x6E\x6F\x20\x65\x73\x70\x72\x65\x73\x73\x6F\x20\x75\x6E\x20\x69\x6E\x74\x65\x72\x65\x73\x73\x65\x20\x70\x72\x65\x63\x65\x64\x65\x6E\x74\x65\x2E\x20\x49\x6C\x20\x70\x72\x6F\x70\x72\x69\x65\x74\x61\x72\x69\x6F\x20\x64\x69\x20\x71\x75\x65\x73\x74\x61\x20\x61\x70\x70\x2E\x2C\x20\x69\x20\x73\x75\x6F\x69\x20\x61\x6D\x6D\x69\x6E\x69\x73\x74\x72\x61\x74\x6F\x72\x69\x2C\x20\x72\x61\x70\x70\x72\x65\x73\x65\x6E\x74\x61\x6E\x74\x69\x20\x6E\x6F\x6E\x20\x70\x6F\x74\x72\x61\x73\x6E\x6E\x6F\x20\x65\x73\x73\x65\x72\x65\x20\x72\x69\x74\x65\x6E\x75\x74\x69\x20\x70\x65\x72\x73\x6F\x6E\x61\x6C\x6D\x65\x6E\x74\x65\x20\x72\x65\x73\x70\x6F\x6E\x73\x61\x62\x69\x6C\x69\x20\x70\x65\x72\x20\x65\x76\x65\x6E\x74\x75\x61\x6C\x69\x20\x64\x61\x6E\x6E\x69\x2C\x20\x65\x66\x66\x65\x74\x74\x69\x76\x69\x20\x6F\x20\x63\x6F\x6E\x73\x65\x71\x75\x65\x6E\x7A\x69\x61\x6C\x69\x2C\x20\x70\x65\x72\x20\x71\x75\x61\x6C\x73\x69\x61\x73\x69\x20\x76\x69\x64\x65\x6F\x20\x64\x61\x20\x70\x61\x72\x74\x65\x20\x64\x69\x20\x74\x65\x72\x7A\x69\x20\x63\x68\x65\x20\x70\x6F\x73\x73\x61\x20\x76\x69\x6F\x6C\x61\x72\x65\x20\x71\x75\x61\x6C\x75\x6E\x71\x75\x65\x20\x6C\x65\x67\x67\x65\x2E","\x42\x65\x6E\x20\x41\x66\x66\x6C\x65\x63\x6B","\x69\x75\x42\x58\x39\x65\x6E\x5F\x4F\x58\x41","\x53\x69\x6D\x6F\x6E\x20\x42\x61\x6B\x65\x72","\x64\x64\x53\x33\x54\x77\x49\x52\x34\x58\x34","\x44\x61\x76\x65\x20\x42\x61\x74\x69\x73\x74\x61","\x57\x57\x7A\x47\x4A\x50\x5F\x79\x34\x38\x6F","\x42\x72\x61\x64\x6C\x65\x79\x20\x43\x6F\x6F\x70\x65\x72","\x74\x52\x34\x74\x4E\x5A\x37\x39\x61\x77\x51","\x52\x75\x73\x73\x65\x6C\x6C\x20\x43\x72\x6F\x77\x65","\x5F\x6F\x52\x33\x56\x71\x6F\x66\x50\x33\x41","\x54\x6F\x6D\x20\x43\x72\x75\x69\x73\x65","\x50\x6B\x2D\x70\x4F\x59\x6C\x57\x54\x76\x38","\x4C\x65\x6F\x6E\x61\x72\x64\x6F\x20\x44\x69\x20\x43\x61\x70\x72\x69\x6F","\x6B\x45\x64\x6C\x79\x34\x50\x43\x6E\x54\x67","\x56\x69\x6E\x20\x44\x69\x65\x73\x65\x6C","\x46\x43\x61\x6A\x32\x65\x59\x54\x66\x79\x6F","\x52\x6F\x62\x65\x72\x74\x20\x44\x6F\x77\x6E\x65\x79\x2C\x20\x4A\x72\x2E","\x32\x44\x48\x2D\x44\x4B\x38\x67\x47\x6B\x73","\x5A\x61\x63\x20\x45\x66\x72\x6F\x6E","\x46\x76\x43\x43\x65\x74\x6D\x49\x53\x63\x6F","\x43\x68\x72\x69\x73\x20\x45\x76\x61\x6E\x73","\x30\x41\x52\x70\x44\x41\x30\x57\x39\x4C\x77","\x4A\x61\x6D\x69\x65\x20\x46\x6F\x78\x78","\x55\x65\x6B\x43\x52\x30\x53\x69\x43\x6C\x6F","\x54\x6F\x6D\x20\x48\x61\x6E\x6B\x73","\x55\x76\x55\x44\x64\x4E\x6E\x56\x49\x72\x30","\x44\x77\x61\x79\x6E\x65\x20\x4A\x6F\x68\x6E\x73\x6F\x6E","\x4C\x2D\x5A\x6D\x59\x4F\x56\x78\x2D\x56\x38","\x41\x73\x68\x74\x6F\x6E\x20\x4B\x75\x74\x63\x68\x65\x72","\x49\x5F\x59\x43\x68\x50\x47\x51\x65\x6C\x73","\x53\x65\x61\x6E\x20\x4D\x61\x67\x75\x69\x72\x65","\x42\x54\x31\x54\x74\x51\x55\x6F\x5A\x4F\x59","\x45\x77\x61\x6E\x20\x4D\x63\x47\x72\x65\x67\x6F\x72","\x6C\x65\x68\x5F\x4F\x5F\x69\x57\x6B\x6E\x34","\x4D\x69\x63\x6B\x65\x79\x20\x52\x6F\x75\x72\x6B\x65","\x35\x70\x67\x37\x2D\x43\x78\x69\x38\x6C\x51","\x41\x64\x61\x6D\x20\x53\x61\x6E\x64\x6C\x65\x72","\x36\x42\x6E\x78\x42\x45\x58\x67\x6C\x41\x6B","\x57\x69\x6C\x6C\x20\x53\x6D\x69\x74\x68","\x4C\x71\x7A\x75\x31\x36\x76\x4A\x74\x5F\x6F","\x42\x65\x6E\x20\x53\x74\x69\x6C\x6C\x65\x72","\x35\x51\x58\x61\x6B\x63\x7A\x70\x37\x72\x77","\x4A\x6F\x68\x6E\x20\x54\x72\x61\x76\x6F\x6C\x74\x61","\x65\x6B\x43\x74\x4E\x4B\x35\x62\x67\x50\x30","\x4D\x61\x72\x6B\x20\x57\x61\x68\x6C\x62\x65\x72\x67","\x53\x57\x31\x66\x58\x36\x34\x70\x58\x47\x49","\x4A\x65\x73\x73\x69\x63\x61\x20\x41\x6C\x62\x61","\x6A\x2D\x63\x45\x77\x67\x4E\x50\x41\x6C\x67","\x4A\x65\x6E\x6E\x69\x66\x65\x72\x20\x41\x6E\x69\x73\x74\x6F\x6E","\x54\x71\x51\x54\x79\x5A\x7A\x30\x57\x56\x73","\x45\x6D\x69\x6C\x79\x20\x42\x6C\x75\x6E\x74","\x57\x67\x44\x34\x42\x59\x36\x55\x57\x75\x59","\x53\x6F\x70\x68\x69\x61\x20\x42\x75\x73\x68","\x4E\x50\x44\x73\x47\x6B\x4B\x39\x63\x59\x67","\x48\x69\x6C\x61\x72\x79\x20\x44\x75\x66\x66","\x4C\x48\x4F\x6A\x54\x55\x47\x63\x4F\x4D\x73","\x41\x6E\x6E\x65\x20\x48\x61\x74\x68\x61\x77\x61\x79","\x33\x38\x4C\x4F\x59\x30\x31\x64\x34\x77\x34","\x4A\x65\x6E\x6E\x69\x66\x65\x72\x20\x4C\x6F\x76\x65\x20\x48\x65\x77\x69\x74\x74","\x78\x64\x37\x38\x53\x6F\x57\x67\x78\x31\x49","\x56\x61\x6E\x65\x73\x73\x61\x20\x48\x75\x64\x67\x65\x6E\x73","\x54\x50\x54\x41\x46\x72\x47\x31\x45\x4C\x6B","\x4B\x61\x74\x65\x20\x48\x75\x64\x73\x6F\x6E","\x6C\x4D\x52\x4F\x63\x7A\x36\x41\x49\x73\x77","\x4E\x69\x63\x6F\x6C\x65\x20\x4B\x69\x64\x6D\x61\x6E","\x79\x69\x55\x5A\x75\x44\x64\x68\x74\x72\x73","\x47\x77\x79\x6E\x65\x74\x68\x20\x50\x61\x6C\x74\x72\x6F\x77","\x38\x66\x6B\x32\x4B\x70\x6B\x6A\x44\x70\x4D","\x53\x61\x72\x61\x68\x20\x4A\x65\x73\x73\x69\x63\x61\x20\x50\x61\x72\x6B\x65\x72","\x36\x33\x6F\x68\x58\x4D\x52\x6A\x73\x6A\x6B","\x45\x6D\x6D\x61\x20\x53\x74\x6F\x6E\x65","\x31\x78\x57\x78\x35\x79\x31\x48\x36\x43\x34","\x4A\x2E\x20\x4A\x2E\x20\x41\x62\x72\x61\x6D\x73","\x6B\x64\x49\x42\x73\x62\x78\x45\x5A\x31\x4D","\x52\x6F\x6E\x20\x48\x6F\x77\x61\x72\x64","\x33\x37\x5A\x6E\x7A\x32\x30\x67\x32\x50\x63","\x46\x72\x61\x6E\x63\x69\x73\x20\x4C\x61\x77\x72\x65\x6E\x63\x65","\x73\x76\x6C\x68\x38\x31\x61\x4E\x43\x62\x45","\x53\x74\x65\x76\x65\x6E\x20\x53\x70\x69\x65\x6C\x62\x65\x72\x67","\x51\x46\x46\x36\x45\x57\x56\x53\x41\x43\x45","\x42\x6F\x62\x20\x49\x67\x65\x72","\x46\x41\x78\x30\x33\x68\x4E\x71\x69\x63\x38","\x41\x72\x74\x75\x72\x6F\x20\x42\x72\x61\x63\x68\x65\x74\x74\x69","\x72\x68\x6B\x70\x71\x71\x54\x6B\x70\x5F\x49","\x35\x30\x20\x43\x65\x6E\x74","\x32\x6B\x5F\x51\x4B\x39\x46\x76\x7A\x45\x6B","\x41\x4F\x41","\x72\x2D\x76\x69\x63\x6D\x7A\x5A\x63\x32\x6F","\x41\x70\x6C\x2E\x64\x65\x2E\x61\x70","\x6D\x50\x39\x48\x50\x79\x44\x64\x48\x6F\x63","\x44\x61\x76\x69\x64\x20\x41\x72\x63\x68\x75\x6C\x65\x74\x61","\x5F\x4F\x59\x6B\x6C\x63\x34\x72\x73\x4C\x73","\x49\x67\x67\x79\x20\x41\x7A\x61\x6C\x65\x61","\x61\x55\x63\x6C\x6B\x50\x39\x4E\x76\x46\x67","\x4C\x69\x6C\x79\x20\x41\x6C\x6C\x65\x6E","\x46\x4F\x5F\x62\x37\x65\x71\x5A\x34\x38\x59","\x4A\x61\x63\x6B\x20\x42\x61\x72\x61\x6B\x61\x74","\x30\x6D\x45\x72\x75\x56\x43\x37\x53\x6B\x38","\x47\x61\x72\x79\x20\x42\x61\x72\x6C\x6F\x77","\x33\x35\x30\x42\x76\x49\x67\x48\x68\x35\x45","\x56\x69\x63\x74\x6F\x72\x69\x61\x20\x42\x65\x63\x6B\x68\x61\x6D","\x77\x47\x6A\x64\x45\x70\x37\x73\x56\x56\x45","\x4A\x75\x73\x74\x69\x6E\x20\x42\x69\x65\x62\x65\x72","\x58\x63\x74\x6D\x5A\x67\x74\x50\x4A\x52\x34","\x42\x6C\x75\x65","\x47\x76\x68\x79\x75\x6D\x4C\x47\x59\x44\x73","\x41\x6E\x64\x72\x65\x61\x20\x42\x6F\x63\x65\x6C\x6C\x69","\x56\x63\x4F\x57\x42\x2D\x36\x51\x59\x58\x51","\x4A\x6F\x6E\x20\x42\x6F\x6E\x20\x4A\x6F\x76\x69","\x36\x4E\x50\x30\x5A\x38\x50\x61\x53\x71\x45","\x43\x68\x72\x69\x73\x20\x42\x72\x6F\x77\x6E","\x6A\x75\x66\x33\x35\x75\x66\x45\x56\x63\x59","\x41\x72\x6D\x69\x6E\x20\x76\x61\x6E\x20\x42\x75\x75\x72\x65\x6E","\x58\x4B\x6D\x38\x61\x50\x71\x4F\x45\x68\x34","\x41\x64\x72\x69\x61\x6E\x6F\x20\x43\x65\x6C\x65\x6E\x74\x61\x6E\x6F","\x77\x50\x77\x67\x38\x65\x42\x50\x78\x63\x55","\x4B\x65\x6C\x6C\x79\x20\x43\x6C\x61\x72\x6B\x73\x6F\x6E","\x77\x31\x50\x5F\x68\x44\x4D\x32\x6C\x61\x6F","\x4D\x69\x6C\x65\x79\x20\x43\x79\x72\x75\x73","\x37\x79\x57\x57\x6A\x5F\x4B\x4D\x47\x63\x6F","\x52\x69\x61\x6E\x20\x44\x61\x77\x73\x6F\x6E","\x6F\x79\x76\x6C\x58\x47\x51\x48\x52\x4D\x51","\x50\x6C\xE1\x63\x69\x64\x6F\x20\x44\x6F\x6D\x69\x6E\x67\x6F","\x73\x4F\x5A\x65\x70\x42\x48\x5A\x5A\x4D\x63","\x44\x72\x2E\x20\x44\x72\x65","\x66\x4D\x38\x69\x4B\x33\x51\x4A\x66\x68\x67","\x44\x72\x61\x6B\x65","\x4C\x31\x4D\x44\x76\x4F\x51\x34\x34\x69\x6F","\x45\x6D\x69\x6E\x65\x6D","\x45\x51\x45\x74\x61\x51\x4A\x62\x79\x70\x67","\x46\x6F\x6F\x20\x46\x69\x67\x68\x74\x65\x72\x73","\x72\x35\x4E\x6A\x76\x46\x75\x50\x43\x68\x55","\x4C\x69\x61\x6D\x20\x47\x61\x6C\x6C\x61\x67\x68\x65\x72","\x6F\x70\x39\x73\x41\x4C\x36\x63\x41\x38\x77","\x4D\x61\x72\x74\x69\x6E\x20\x47\x61\x72\x72\x69\x78","\x74\x6B\x42\x58\x62\x78\x4D\x78\x71\x34\x45","\x53\x65\x6C\x65\x6E\x61\x20\x47\x6F\x6D\x65\x7A","\x53\x57\x54\x6B\x4D\x65\x57\x31\x36\x69\x34","\x45\x6C\x6C\x69\x65\x20\x47\x6F\x75\x6C\x64\x69\x6E\x67","\x35\x73\x45\x79\x62\x62\x74\x62\x64\x44\x6B","\x46\x72\x65\x64\x20\x48\x61\x6D\x6D\x6F\x6E\x64","\x6B\x64\x47\x46\x33\x48\x41\x46\x75\x4E\x6F","\x43\x61\x6C\x76\x69\x6E\x20\x48\x61\x72\x72\x69\x73","\x30\x53\x46\x76\x45\x41\x58\x7A\x68\x72\x55","\x4A\x65\x6E\x6E\x69\x66\x65\x72\x20\x48\x75\x64\x73\x6F\x6E","\x6C\x6B\x78\x36\x6C\x73\x38\x52\x46\x65\x67","\x4F\x6C\x69\x76\x69\x61\x20\x4E\x65\x77\x74\x6F\x6E\x2D\x4A\x6F\x68\x6E","\x76\x75\x75\x36\x33\x51\x50\x33\x6F\x79\x73","\x57\x69\x7A\x20\x4B\x68\x61\x6C\x69\x66\x61","\x5F\x34\x4B\x78\x58\x6E\x63\x65\x35\x59\x34","\x4C\x61\x64\x79\x20\x47\x61\x67\x61","\x52\x49\x55\x45\x33\x78\x47\x53\x4F\x74\x67","\x41\x64\x61\x6D\x20\x4C\x61\x6D\x62\x65\x72\x74","\x79\x4B\x59\x48\x6F\x6E\x59\x62\x62\x62\x4D","\x4A\x65\x6E\x6E\x69\x66\x65\x72\x20\x4C\x6F\x70\x65\x7A","\x34\x44\x58\x66\x43\x66\x6F\x45\x48\x76\x67","\x44\x65\x6D\x69\x20\x4C\x6F\x76\x61\x74\x6F","\x31\x52\x49\x70\x75\x55\x76\x77\x77\x34\x6F","\x4D\x61\x63\x6B\x6C\x65\x6D\x6F\x72\x65","\x47\x53\x37\x57\x5A\x7A\x6E\x42\x79\x79\x38","\x52\x69\x63\x6B\x79\x20\x4D\x61\x72\x74\x69\x6E","\x57\x6A\x61\x79\x7A\x77\x6C\x51\x59\x4B\x67","\x4B\x79\x6C\x69\x65\x20\x4D\x69\x6E\x6F\x67\x75\x65","\x66\x68\x65\x41\x4F\x42\x4C\x6D\x4B\x56\x59","\x47\x69\x61\x6E\x6E\x69\x20\x4D\x6F\x72\x61\x6E\x64\x69","\x54\x75\x4E\x6D\x5A\x37\x6F\x30\x57\x78\x63","\x4E\x69\x63\x6B\x65\x6C\x62\x61\x63\x6B","\x36\x35\x50\x43\x37\x70\x33\x62\x33\x37\x6F","\x4C\x61\x75\x72\x61\x20\x50\x61\x75\x73\x69\x6E\x69","\x39\x62\x5F\x65\x73\x57\x4F\x50\x68\x36\x63","\x4C\x69\x61\x6D\x20\x50\x61\x79\x6E\x65","\x51\x32\x45\x68\x6D\x58\x4F\x4A\x6D\x33\x38","\x4B\x61\x74\x79\x20\x50\x65\x72\x72\x79","\x68\x75\x6C\x56\x66\x70\x4E\x47\x46\x43\x41","\x52\x69\x68\x61\x6E\x6E\x61","\x70\x46\x41\x77\x77\x62\x53\x53\x4F\x73\x45","\x53\x68\x61\x6B\x69\x72\x61","\x43\x4B\x6D\x71\x62\x35\x65\x64\x63\x49\x4D","\x42\x72\x69\x74\x6E\x65\x79\x20\x53\x70\x65\x61\x72\x73","\x6B\x76\x4B\x62\x4E\x77\x69\x39\x43\x58\x30","\x47\x77\x65\x6E\x20\x53\x74\x65\x66\x61\x6E\x69","\x4B\x47\x49\x49\x48\x36\x58\x64\x36\x47\x4D","\x54\x61\x79\x6C\x6F\x72\x20\x53\x77\x69\x66\x74","\x59\x63\x33\x6C\x4D\x56\x37\x7A\x47\x6E\x34","\x4A\x75\x73\x74\x69\x6E\x20\x54\x69\x6D\x62\x65\x72\x6C\x61\x6B\x65","\x2D\x34\x73\x6D\x48\x4D\x4F\x31\x43\x72\x67","\x54\x69\xEB\x73\x74\x6F","\x63\x4D\x69\x41\x74\x6D\x63\x53\x49\x75\x67","\x55\x73\x68\x65\x72","\x64\x34\x72\x4E\x66\x34\x79\x65\x4D\x79\x41","\x52\x6F\x62\x62\x69\x65\x20\x57\x69\x6C\x6C\x69\x61\x6D\x73","\x54\x75\x6B\x32\x4A\x52\x79\x62\x61\x50\x49","\x5A\x65\x64\x64","\x69\x35\x5F\x39\x33\x6F\x7A\x4C\x5F\x7A\x63","\x4B\x75\x72\x74\x20\x41\x6E\x67\x6C\x65","\x63\x57\x6B\x6B\x4D\x5A\x42\x54\x42\x4F\x49","\x43\x68\x72\x69\x73\x20\x4A\x65\x72\x69\x63\x68\x6F","\x4F\x43\x79\x66\x71\x78\x76\x2D\x4F\x50\x63","\x54\x72\x69\x70\x6C\x65\x20\x48","\x63\x48\x58\x61\x58\x42\x41\x68\x33\x6D\x34","\x54\x68\x65\x20\x55\x6E\x64\x65\x72\x74\x61\x6B\x65\x72","\x36\x57\x59\x45\x72\x57\x37\x54\x4B\x51\x6B","\x45\x6D\x6D\x61\x6E\x75\x65\x6C\x20\x41\x64\x65\x62\x61\x79\x6F\x72","\x73\x64\x52\x34\x78\x66\x59\x7A\x62\x6E\x45","\x54\x72\x6F\x79\x20\x41\x69\x6B\x6D\x61\x6E","\x64\x53\x33\x55\x42\x43\x32\x63\x71\x61\x4D","\x53\x65\x72\x67\x69\x6F\x20\x41\x67\xFC\x65\x72\x6F","\x78\x66\x33\x35\x68\x61\x4D\x4D\x59\x7A\x4D","\x4E\x42\x41\x20\x43\x6F\x6D\x70\x69\x6C\x61\x74\x69\x6F\x6E","\x66\x4E\x6D\x48\x67\x46\x49\x75\x2D\x39\x6F","\x47\x69\x6F\x63\x61\x74\x6F\x72\x69\x20\x4E\x42\x41","\x4E\x53\x62\x58\x4F\x6D\x2D\x64\x6D\x78\x73","\x47\x61\x72\x65\x74\x68\x20\x42\x61\x6C\x65","\x61\x44\x37\x31\x47\x50\x43\x72\x58\x61\x30","\x49\x20\x6D\x69\x67\x6C\x69\x6F\x72\x69\x20\x67\x69\x6F\x63\x61\x74\x6F\x72\x69\x20\x64\x69\x20\x63\x61\x6C\x63\x69\x6F","\x42\x57\x4D\x33\x51\x6A\x51\x4C\x38\x4E\x45","\x52\x65\x61\x6C\x20\x4D\x61\x64\x72\x69\x64","\x54\x74\x74\x42\x68\x4B\x49\x2D\x68\x47\x45","\x4D\x61\x72\x69\x6F\x20\x42\x61\x6C\x6F\x74\x65\x6C\x6C\x69","\x32\x54\x75\x44\x75\x53\x57\x61\x57\x66\x67","\x55\x73\x61\x69\x6E\x20\x42\x6F\x6C\x74","\x46\x57\x53\x4D\x67\x44\x6F\x4D\x32\x71\x77","\x44\x61\x76\x69\x64\x20\x42\x65\x63\x6B\x68\x61\x6D","\x6B\x52\x48\x4F\x6B\x35\x72\x37\x42\x51\x45","\x4B\x61\x72\x69\x6D\x20\x42\x65\x6E\x7A\x65\x6D\x61","\x66\x6C\x49\x78\x37\x31\x33\x38\x58\x69\x73","\x4C\x65\x77\x69\x73\x20\x48\x61\x6D\x69\x6C\x74\x6F\x6E","\x31\x5F\x46\x46\x73\x71\x69\x78\x58\x70\x49","\x46\x65\x72\x6E\x61\x6E\x64\x6F\x20\x41\x6C\x6F\x6E\x73\x6F","\x63\x66\x42\x68\x58\x74\x35\x4B\x56\x4A\x59","\x45\x64\x65\x6E\x20\x48\x61\x7A\x61\x72\x64","\x51\x6B\x54\x36\x63\x5A\x4A\x70\x35\x5A\x6F","\x43\x68\x69\x63\x68\x61\x72\x69\x74\x6F\x20\x48\x65\x72\x6E\xE1\x6E\x64\x65\x7A","\x4D\x49\x31\x64\x57\x37\x5F\x6E\x76\x31\x30","\x46\x6F\x6F\x74\x62\x61\x6C\x6C\x20\x50\x6C\x61\x79\x65\x72\x73","\x63\x66\x64\x48\x62\x65\x7A\x6E\x45\x46\x63","\x41\x6E\x61\x20\x49\x76\x61\x6E\x6F\x76\x69\x63","\x41\x5A\x44\x35\x51\x4E\x34\x30\x2D\x63\x77","\x41\x64\x61\x6D\x20\x4A\x6F\x6E\x65\x73","\x44\x39\x76\x4A\x4C\x6D\x5F\x2D\x32\x35\x59","\x4B\x61\x6B\xE1","\x6F\x6D\x55\x71\x72\x69\x52\x4B\x43\x32\x41","\x4A\x6F\x72\x67\x65\x20\x4C\x6F\x72\x65\x6E\x7A\x6F","\x61\x65\x47\x51\x66\x31\x44\x44\x41\x7A\x38","\x44\x61\x76\x69\x64\x20\x4C\x75\x69\x7A","\x2D\x59\x36\x58\x75\x5A\x49\x77\x30\x52\x63","\x44\x69\x65\x67\x6F\x20\x4D\x61\x72\x61\x64\x6F\x6E\x61","\x72\x69\x6C\x75\x77\x64\x5A\x65\x37\x72\x55","\x46\x65\x6C\x69\x70\x65\x20\x4D\x61\x73\x73\x61","\x63\x69\x36\x2D\x42\x33\x51\x35\x6D\x45\x6B","\x4C\x69\x6F\x6E\x65\x6C\x20\x4D\x65\x73\x73\x69","\x71\x45\x47\x4B\x37\x6B\x65\x6E\x6B\x44\x49","\x4A\x6F\x73\xE9\x20\x4D\x6F\x75\x72\x69\x6E\x68\x6F","\x62\x46\x4C\x7A\x37\x36\x42\x6F\x52\x62\x30","\x41\x6C\x65\x78\x61\x6E\x64\x72\x65\x20\x50\x61\x74\x6F","\x38\x4E\x62\x69\x49\x35\x66\x4D\x6A\x39\x73","\x47\x65\x72\x61\x72\x64\x20\x50\x69\x71\x75\xE9","\x54\x67\x5F\x66\x2D\x64\x47\x5A\x68\x63\x6B","\x43\x65\x73\x61\x72\x65\x20\x50\x72\x61\x6E\x64\x65\x6C\x6C\x69","\x41\x56\x65\x4F\x4C\x73\x74\x34\x73\x33\x55","\x43\x72\x69\x73\x74\x69\x61\x6E\x6F\x20\x52\x6F\x6E\x61\x6C\x64\x6F","\x51\x47\x6A\x61\x47\x36\x4F\x38\x79\x43\x59","\x56\x61\x6C\x65\x6E\x74\x69\x6E\x6F\x20\x52\x6F\x73\x73\x69","\x75\x48\x46\x4F\x32\x38\x4C\x48\x34\x35\x30","\x54\x68\x69\x61\x67\x6F\x20\x53\x69\x6C\x76\x61","\x49\x38\x34\x78\x4B\x2D\x41\x52\x51\x51\x51","\x53\x74\x65\x76\x65\x20\x42\x61\x6C\x6C\x6D\x65\x72","\x63\x4B\x6E\x50\x52\x6F\x73\x4C\x4B\x70\x67","\x53\x61\x74\x79\x61\x20\x4E\x61\x64\x65\x6C\x6C\x61","\x33\x59\x44\x78\x42\x36\x68\x58\x57\x59\x63","\x4A\x65\x66\x66\x20\x42\x65\x7A\x6F\x73","\x44\x46\x56\x65\x7A\x7A\x6A\x41\x68\x46\x59","\x4C\x61\x72\x72\x79\x20\x50\x61\x67\x65\x20\x26\x20\x53\x65\x72\x67\x65\x79\x20\x42\x72\x69\x6E","\x2D\x42\x6C\x6F\x4A\x36\x44\x46\x78\x6B\x45","\x54\x69\x6D\x20\x43\x6F\x6F\x6B","\x4D\x5F\x54\x31\x4B\x37\x70\x46\x73\x49\x30","\x42\x69\x6C\x6C\x20\x47\x61\x74\x65\x73","\x58\x53\x36\x79\x73\x44\x46\x54\x62\x4C\x55","\x42\x6F\x62\x20\x50\x61\x72\x73\x6F\x6E\x73","\x45\x53\x63\x63\x68\x43\x4A\x78\x62\x41\x4D","\x4D\x61\x72\x6B\x20\x5A\x75\x63\x6B\x65\x72\x62\x65\x72\x67","\x53\x61\x6D\x73\x75\x6E\x67\x20\x47\x61\x6C\x61\x78\x79\x20\x53\x35","\x36\x77\x34\x47\x71\x74\x2D\x6C\x6A\x62\x34","\x53\x74\x65\x70\x68\x65\x6E\x20\x4B\x69\x6E\x67","\x58\x4F\x37\x6C\x46\x56\x32\x65\x2D\x78\x41"];function Info(){this[_0x696d[0]]=_0x696d[1];this[_0x696d[2]]=_0x696d[1];this[_0x696d[3]]=_0x696d[1];this[_0x696d[4]]=_0x696d[1];this[_0x696d[5]]=_0x696d[1];this[_0x696d[6]]=_0x696d[1];this[_0x696d[7]]=_0x696d[1];this[_0x696d[8]]=_0x696d[1];} ;function AppVar(){this[_0x696d[9]]=_0x696d[1];this[_0x696d[10]]=_0x696d[1];} ;function Interface(){} ;function Video(_0x24aax5,_0x24aax6){this[_0x696d[0]]=_0x24aax5;this[_0x696d[11]]=_0x24aax6;} ;function Data(_0x24aax8){this[_0x696d[12]]=_0x24aax8;this[_0x696d[13]]= new Info();this[_0x696d[14]]= new Interface();this[_0x696d[15]]= new Array();this[_0x696d[16]]= new Array();this[_0x696d[17]]= new Array();this[_0x696d[18]]= new Array();this[_0x696d[19]]=function (_0x24aax5,_0x24aax6){this[_0x696d[15]][_0x696d[20]]( new Video(_0x24aax5,_0x24aax6));} ;this[_0x696d[21]]=function (_0x24aax5,_0x24aax6){this[_0x696d[16]][_0x696d[20]]( new Video(_0x24aax5,_0x24aax6));} ;this[_0x696d[22]]=function (_0x24aax5,_0x24aax6){this[_0x696d[17]][_0x696d[20]]( new Video(_0x24aax5,_0x24aax6));} ;this[_0x696d[23]]=function (_0x24aax5,_0x24aax6){this[_0x696d[18]][_0x696d[20]]( new Video(_0x24aax5,_0x24aax6));} ;} ;var l=_0x696d[24];var appVar= new AppVar();var data= new Array();data[l]= new Data(l);data[l][_0x696d[13]][_0x696d[5]]=_0x696d[25];data[l][_0x696d[13]][_0x696d[6]]=_0x696d[26];data[l][_0x696d[13]][_0x696d[7]]=_0x696d[27];data[l][_0x696d[19]](_0x696d[28],_0x696d[29]);data[l][_0x696d[19]](_0x696d[30],_0x696d[31]);data[l][_0x696d[19]](_0x696d[32],_0x696d[33]);data[l][_0x696d[19]](_0x696d[34],_0x696d[35]);data[l][_0x696d[19]](_0x696d[36],_0x696d[37]);data[l][_0x696d[19]](_0x696d[38],_0x696d[39]);data[l][_0x696d[19]](_0x696d[40],_0x696d[41]);data[l][_0x696d[19]](_0x696d[42],_0x696d[43]);data[l][_0x696d[19]](_0x696d[44],_0x696d[45]);data[l][_0x696d[19]](_0x696d[46],_0x696d[47]);data[l][_0x696d[19]](_0x696d[48],_0x696d[49]);data[l][_0x696d[19]](_0x696d[50],_0x696d[51]);data[l][_0x696d[19]](_0x696d[52],_0x696d[53]);data[l][_0x696d[19]](_0x696d[54],_0x696d[55]);data[l][_0x696d[19]](_0x696d[56],_0x696d[57]);data[l][_0x696d[19]](_0x696d[58],_0x696d[59]);data[l][_0x696d[19]](_0x696d[60],_0x696d[61]);data[l][_0x696d[19]](_0x696d[62],_0x696d[63]);data[l][_0x696d[19]](_0x696d[64],_0x696d[65]);data[l][_0x696d[19]](_0x696d[66],_0x696d[67]);data[l][_0x696d[19]](_0x696d[68],_0x696d[69]);data[l][_0x696d[19]](_0x696d[70],_0x696d[71]);data[l][_0x696d[19]](_0x696d[72],_0x696d[73]);data[l][_0x696d[19]](_0x696d[74],_0x696d[75]);data[l][_0x696d[19]](_0x696d[76],_0x696d[77]);data[l][_0x696d[19]](_0x696d[78],_0x696d[79]);data[l][_0x696d[19]](_0x696d[80],_0x696d[81]);data[l][_0x696d[19]](_0x696d[82],_0x696d[83]);data[l][_0x696d[19]](_0x696d[84],_0x696d[85]);data[l][_0x696d[19]](_0x696d[86],_0x696d[87]);data[l][_0x696d[19]](_0x696d[88],_0x696d[89]);data[l][_0x696d[19]](_0x696d[90],_0x696d[91]);data[l][_0x696d[19]](_0x696d[92],_0x696d[93]);data[l][_0x696d[19]](_0x696d[94],_0x696d[95]);data[l][_0x696d[19]](_0x696d[96],_0x696d[97]);data[l][_0x696d[19]](_0x696d[98],_0x696d[99]);data[l][_0x696d[19]](_0x696d[100],_0x696d[101]);data[l][_0x696d[19]](_0x696d[102],_0x696d[103]);data[l][_0x696d[19]](_0x696d[104],_0x696d[105]);data[l][_0x696d[19]](_0x696d[106],_0x696d[107]);data[l][_0x696d[19]](_0x696d[108],_0x696d[109]);data[l][_0x696d[19]](_0x696d[110],_0x696d[111]);data[l][_0x696d[21]](_0x696d[112],_0x696d[113]);data[l][_0x696d[21]](_0x696d[114],_0x696d[115]);data[l][_0x696d[21]](_0x696d[116],_0x696d[117]);data[l][_0x696d[21]](_0x696d[118],_0x696d[119]);data[l][_0x696d[21]](_0x696d[120],_0x696d[121]);data[l][_0x696d[21]](_0x696d[122],_0x696d[123]);data[l][_0x696d[21]](_0x696d[124],_0x696d[125]);data[l][_0x696d[21]](_0x696d[126],_0x696d[127]);data[l][_0x696d[21]](_0x696d[128],_0x696d[129]);data[l][_0x696d[21]](_0x696d[130],_0x696d[131]);data[l][_0x696d[21]](_0x696d[132],_0x696d[133]);data[l][_0x696d[21]](_0x696d[134],_0x696d[135]);data[l][_0x696d[21]](_0x696d[136],_0x696d[137]);data[l][_0x696d[21]](_0x696d[138],_0x696d[139]);data[l][_0x696d[21]](_0x696d[140],_0x696d[141]);data[l][_0x696d[21]](_0x696d[142],_0x696d[143]);data[l][_0x696d[21]](_0x696d[144],_0x696d[145]);data[l][_0x696d[21]](_0x696d[146],_0x696d[147]);data[l][_0x696d[21]](_0x696d[148],_0x696d[149]);data[l][_0x696d[21]](_0x696d[150],_0x696d[151]);data[l][_0x696d[21]](_0x696d[152],_0x696d[153]);data[l][_0x696d[21]](_0x696d[154],_0x696d[155]);data[l][_0x696d[21]](_0x696d[156],_0x696d[157]);data[l][_0x696d[21]](_0x696d[158],_0x696d[159]);data[l][_0x696d[21]](_0x696d[160],_0x696d[161]);data[l][_0x696d[21]](_0x696d[162],_0x696d[163]);data[l][_0x696d[21]](_0x696d[164],_0x696d[165]);data[l][_0x696d[21]](_0x696d[166],_0x696d[167]);data[l][_0x696d[21]](_0x696d[168],_0x696d[169]);data[l][_0x696d[21]](_0x696d[170],_0x696d[171]);data[l][_0x696d[21]](_0x696d[172],_0x696d[173]);data[l][_0x696d[21]](_0x696d[174],_0x696d[175]);data[l][_0x696d[21]](_0x696d[176],_0x696d[177]);data[l][_0x696d[21]](_0x696d[178],_0x696d[179]);data[l][_0x696d[21]](_0x696d[180],_0x696d[181]);data[l][_0x696d[21]](_0x696d[182],_0x696d[183]);data[l][_0x696d[21]](_0x696d[184],_0x696d[185]);data[l][_0x696d[21]](_0x696d[186],_0x696d[187]);data[l][_0x696d[21]](_0x696d[188],_0x696d[189]);data[l][_0x696d[21]](_0x696d[190],_0x696d[191]);data[l][_0x696d[21]](_0x696d[192],_0x696d[193]);data[l][_0x696d[21]](_0x696d[194],_0x696d[195]);data[l][_0x696d[21]](_0x696d[196],_0x696d[197]);data[l][_0x696d[21]](_0x696d[198],_0x696d[199]);data[l][_0x696d[21]](_0x696d[200],_0x696d[201]);data[l][_0x696d[21]](_0x696d[202],_0x696d[203]);data[l][_0x696d[21]](_0x696d[204],_0x696d[205]);data[l][_0x696d[21]](_0x696d[206],_0x696d[207]);data[l][_0x696d[21]](_0x696d[208],_0x696d[209]);data[l][_0x696d[21]](_0x696d[210],_0x696d[211]);data[l][_0x696d[21]](_0x696d[212],_0x696d[213]);data[l][_0x696d[21]](_0x696d[214],_0x696d[215]);data[l][_0x696d[21]](_0x696d[216],_0x696d[217]);data[l][_0x696d[21]](_0x696d[218],_0x696d[219]);data[l][_0x696d[21]](_0x696d[220],_0x696d[221]);data[l][_0x696d[22]](_0x696d[222],_0x696d[223]);data[l][_0x696d[22]](_0x696d[32],_0x696d[33]);data[l][_0x696d[22]](_0x696d[224],_0x696d[225]);data[l][_0x696d[22]](_0x696d[226],_0x696d[227]);data[l][_0x696d[22]](_0x696d[228],_0x696d[229]);data[l][_0x696d[22]](_0x696d[230],_0x696d[231]);data[l][_0x696d[22]](_0x696d[232],_0x696d[233]);data[l][_0x696d[22]](_0x696d[234],_0x696d[235]);data[l][_0x696d[22]](_0x696d[236],_0x696d[237]);data[l][_0x696d[22]](_0x696d[238],_0x696d[239]);data[l][_0x696d[22]](_0x696d[240],_0x696d[241]);data[l][_0x696d[22]](_0x696d[242],_0x696d[243]);data[l][_0x696d[22]](_0x696d[244],_0x696d[245]);data[l][_0x696d[22]](_0x696d[246],_0x696d[247]);data[l][_0x696d[22]](_0x696d[248],_0x696d[249]);data[l][_0x696d[22]](_0x696d[250],_0x696d[251]);data[l][_0x696d[22]](_0x696d[252],_0x696d[253]);data[l][_0x696d[22]](_0x696d[254],_0x696d[255]);data[l][_0x696d[22]](_0x696d[256],_0x696d[257]);data[l][_0x696d[22]](_0x696d[258],_0x696d[259]);data[l][_0x696d[22]](_0x696d[260],_0x696d[261]);data[l][_0x696d[22]](_0x696d[262],_0x696d[263]);data[l][_0x696d[22]](_0x696d[264],_0x696d[265]);data[l][_0x696d[22]](_0x696d[266],_0x696d[267]);data[l][_0x696d[22]](_0x696d[268],_0x696d[269]);data[l][_0x696d[22]](_0x696d[270],_0x696d[271]);data[l][_0x696d[22]](_0x696d[272],_0x696d[273]);data[l][_0x696d[22]](_0x696d[274],_0x696d[275]);data[l][_0x696d[22]](_0x696d[276],_0x696d[277]);data[l][_0x696d[22]](_0x696d[278],_0x696d[279]);data[l][_0x696d[22]](_0x696d[280],_0x696d[281]);data[l][_0x696d[22]](_0x696d[282],_0x696d[283]);data[l][_0x696d[22]](_0x696d[284],_0x696d[285]);data[l][_0x696d[22]](_0x696d[286],_0x696d[287]);data[l][_0x696d[22]](_0x696d[288],_0x696d[289]);data[l][_0x696d[22]](_0x696d[290],_0x696d[291]);data[l][_0x696d[22]](_0x696d[292],_0x696d[293]);data[l][_0x696d[23]](_0x696d[294],_0x696d[295]);data[l][_0x696d[23]](_0x696d[296],_0x696d[297]);data[l][_0x696d[23]](_0x696d[298],_0x696d[299]);data[l][_0x696d[23]](_0x696d[300],_0x696d[301]);data[l][_0x696d[23]](_0x696d[302],_0x696d[303]);data[l][_0x696d[23]](_0x696d[304],_0x696d[305]);data[l][_0x696d[23]](_0x696d[306],_0x696d[307]);data[l][_0x696d[23]](_0x696d[308],_0x696d[305]);data[l][_0x696d[23]](_0x696d[309],_0x696d[310]);data[l][_0x696d[23]](_0x696d[311],_0x696d[312]);
+function Info () {//localized info about the app
+
+    this.title = "";
+    this.title_plus ="";
+    this.description = "";
+    this.image ="";
+    this.about="";
+    this.about_thanks="";
+    this.about_law="";
+    this.let_us_know="";
+}
+
+function AppVar (){//unlocalized variables about the app
+    this.repo="";
+    this.appname="";
+}
+
+function Interface() {
+
+
+}
+
+function Video(title,url){
+    this.title = title;
+    this.url = url;
+}
+
+function Data(locale){
+
+    this.locale = locale;
+
+    this.info = new Info();
+    this.interface = new Interface();
+
+    this.tv = new Array();
+    this.music = new Array();
+    this.sport = new Array();
+    this.other = new Array();
+
+    this.addTv = function(title,url){
+        this.tv.push(new Video(title,url));
+    }
+    this.addMusic = function(title,url){
+        this.music.push(new Video(title,url));
+    }
+    this.addSport = function(title,url){
+        this.sport.push(new Video(title,url));
+    }
+    this.addOther = function(title,url){
+        this.other.push(new Video(title,url));
+    }
+
+}
+
+var l="it";
+
+var appVar=new AppVar();
+
+var data = new Array();
+
+data[l]= new Data(l);
+
+data[l].info.about="<center>La 'sfida del secchio ghiacciato', diventata virale, è stata promossa dalla ALS Association, l'associazione statunitense che si occupa di Sla, la Sclerosi laterale amiotrofica. Le secchiate d'acqua gelata per la Sla 'funzionano' e stanno facendo impennare le donazioni, sì, negli Stati Uniti. In Italia purtroppo il fenomeno si è trasformato in un divertente gavettone postato sui social senza però avere lo stesso successo in termini di donazioni.<br/><br/>L'idea dietro questa app. è di raccogliere fondi semplicemente scaricandola.<br/><br/><strong class='wow'>Ogni 1000 download donerò 1€ all'Associazione A.I.S.L.A.</strong><br/><small>Come prdataova, appena raggiungerò quota 1000 download posterò una foto con la ricevuta della donazione.</small><br/></br/>Quindi grazie per il tuo download!!! <strong>Stai dando un piccolo aiuto</strong>, ma se vuoi fare di più puoi contattarmi per incrementare la cifra.<br/><a class='button button-big active ext-link' href='mailto:ibc@kogel.it'>Contattami ora!</a><br/><center><img src='css/icons/init.png' class='app_icon_big'></img></center>";
+
+data[l].info.about_thanks="Questa applicazione è stata realizzata da <a class='ext-link' target='_blank' href='http://www.kogel.it'>Mirko Gelsomini</a>";
+
+data[l].info.about_law="Disclaimer: In conformità con l'articolo 17 U.S.C. Sezione 107, il materiale su questa app. è distribuito senza profitto a coloro che hanno espresso un interesse precedente. Il proprietario di questa app., i suoi amministratori, rappresentanti non potrasnno essere ritenuti personalmente responsabili per eventuali danni, effettivi o consequenziali, per qualsiasi video da parte di terzi che possa violare qualunque legge.";
+
+/*-------------------------------------------------------------------------------------------------------*/
+/***********************************/
+data[l].addTv(
+"Maria De Filippi",
+"agU0-gPuWoU"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Belen Rodriguez",
+"RNjhPOCKzFk"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Cristina Chiabotto",
+"RBd0SXJTKqc"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Gianmarco Pozzecco",
+"wp1cw6Xe97M"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Checco Zalone",
+"1NKjIeBnlKg"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Michelle Hunziker",
+"4NpjlTqvClg"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Ben Affleck",
+"eVW6QVkIcqM"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Kledi Kadiu",
+"iuBX9en_OXA"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Simon Baker",
+"ddS3TwIR4X4"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Dave Batista",
+"WWzGJP_y48o"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Bradley Cooper",
+"tR4tNZ79awQ"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Russell Crowe",
+"_oR3VqofP3A"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Tom Cruise",
+"Pk-pOYlWTv8"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Leonardo Di Caprio",
+"kEdly4PCnTg"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Vin Diesel",
+"FCaj2eYTfyo"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Robert Downey, Jr.",
+"2DH-DK8gGks"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Zac Efron",
+"FvCCetmISco"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Chris Evans",
+"0ARpDA0W9Lw"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Jamie Foxx",
+"UekCR0SiClo"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Tom Hanks",
+"UvUDdNnVIr0"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Dwayne Johnson",
+"L-ZmYOVx-V8"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Ashton Kutcher",
+"I_YChPGQels"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Sean Maguire",
+"BT1TtQUoZOY"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Ewan McGregor",
+"leh_O_iWkn4"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Mickey Rourke",
+"5pg7-Cxi8lQ"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Adam Sandler",
+"6BnxBEXglAk"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Will Smith",
+"Lqzu16vJt_o"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Ben Stiller",
+"5QXakczp7rw"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"John Travolta",
+"ekCtNK5bgP0"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Jessica Alba",
+"j-cEwgNPAlg"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Jennifer Aniston",
+"TqQTyZz0WVs"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Emily Blunt",
+"WgD4BY6UWuY"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Sophia Bush",
+"NPDsGkK9cYg"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Hilary Duff",
+"LHOjTUGcOMs"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Anne Hathaway",
+"38LOY01d4w4"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Jennifer Love Hewitt",
+"xd78SoWgx1I"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Vanessa Hudgens",
+"TPTAFrG1ELk"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Kate Hudson",
+"lMROcz6AIsw"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Nicole Kidman",
+"yiUZuDdhtrs"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Gwyneth Paltrow",
+"8fk2KpkjDpM"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Sarah Jessica Parker",
+"63ohXMRjsjk"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Emma Stone",
+"1xWx5y1H6C4"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"J. J. Abrams",
+"kdIBsbxEZ1M"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Ron Howard",
+"37Znz20g2Pc"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Francis Lawrence",
+"svlh81aNCbE"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Steven Spielberg",
+"QFF6EWVSACE"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Bob Iger",
+"FAx03hNqic8"
+);
+/***********************************/
+/***********************************/
+data[l].addTv(
+"Arturo Brachetti",
+"rhkpqqTkp_I"
+);
+/***********************************/
+
+
+/**************************************************************************************************/
+/***********************************/
+data[l].addMusic(
+"Francesco Facchinetti",
+"ESP1a4tDBf4"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Luciana Litizzetto",
+"dBuTCSmOCkw"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"50 Cent",
+"2k_QK9FvzEk"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"AOA",
+"r-vicmzZc2o"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Apl.de.ap",
+"mP9HPyDdHoc"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"David Archuleta",
+"_OYklc4rsLs"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Iggy Azalea",
+"aUclkP9NvFg"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Lily Allen",
+"FO_b7eqZ48Y"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Jack Barakat",
+"0mEruVC7Sk8"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Gary Barlow",
+"350BvIgHh5E"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Victoria Beckham",
+"wGjdEp7sVVE"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Justin Bieber",
+"XctmZgtPJR4"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Blue",
+"GvhyumLGYDs"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Andrea Bocelli",
+"VcOWB-6QYXQ"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Jon Bon Jovi",
+"6NP0Z8PaSqE"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Chris Brown",
+"juf35ufEVcY"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Armin van Buuren",
+"XKm8aPqOEh4"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Adriano Celentano",
+"wPwg8eBPxcU"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Kelly Clarkson",
+"w1P_hDM2lao"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Miley Cyrus",
+"7yWWj_KMGco"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Rian Dawson",
+"oyvlXGQHRMQ"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Plácido Domingo",
+"sOZepBHZZMc"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Dr. Dre",
+"fM8iK3QJfhg"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Drake",
+"L1MDvOQ44io"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Eminem",
+"EQEtaQJbypg"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Foo Fighters",
+"r5NjvFuPChU"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Liam Gallagher",
+"op9sAL6cA8w"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Martin Garrix",
+"tkBXbxMxq4E"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Selena Gomez",
+"SWTkMeW16i4"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Ellie Goulding",
+"5sEybbtbdDk"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Fred Hammond",
+"kdGF3HAFuNo"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Calvin Harris",
+"0SFvEAXzhrU"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Jennifer Hudson",
+"lkx6ls8RFeg"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Olivia Newton-John",
+"vuu63QP3oys"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Wiz Khalifa",
+"_4KxXnce5Y4"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Lady Gaga",
+"RIUE3xGSOtg"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Adam Lambert",
+"yKYHonYbbbM"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Jennifer Lopez",
+"4DXfCfoEHvg"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Demi Lovato",
+"1RIpuUvww4o"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Macklemore",
+"GS7WZznByy8"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Ricky Martin",
+"WjayzwlQYKg"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Kylie Minogue",
+"fheAOBLmKVY"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Gianni Morandi",
+"TuNmZ7o0Wxc"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Nickelback",
+"65PC7p3b37o"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Laura Pausini",
+"9b_esWOPh6c"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Liam Payne",
+"Q2EhmXOJm38"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Katy Perry",
+"hulVfpNGFCA"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Rihanna",
+"pFAwwbSSOsE"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Shakira",
+"CKmqb5edcIM"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Britney Spears",
+"kvKbNwi9CX0"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Gwen Stefani",
+"KGIIH6Xd6GM"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Taylor Swift",
+"Yc3lMV7zGn4"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Justin Timberlake",
+"-4smHMO1Crg"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Tiësto",
+"cMiAtmcSIug"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Usher",
+"d4rNf4yeMyA"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Robbie Williams",
+"Tuk2JRybaPI"
+);
+/***********************************/
+/***********************************/
+data[l].addMusic(
+"Zedd",
+"i5_93ozL_zc"
+);
+/***********************************/
+
+/********************************************************************/
+/***********************************/
+data[l].addSport(
+"Alessandro (Alex) del Piero",
+"_FH6BaFfmtA"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Kurt Angle",
+"cWkkMZBTBOI"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Dave Batista",
+"WWzGJP_y48o"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Triple H",
+"cHXaXBAh3m4"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Emmanuel Adebayor",
+"sdR4xfYzbnE"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Troy Aikman",
+"dS3UBC2cqaM"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Sergio Agüero",
+"xf35haMMYzM"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"NBA Compilation",
+"fNmHgFIu-9o"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Giocatori NBA",
+"NSbXOm-dmxs"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Gareth Bale",
+"aD71GPCrXa0"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"I migliori giocatori di calcio",
+"BWM3QjQL8NE"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Real Madrid",
+"TttBhKI-hGE"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Mario Balotelli",
+"2TuDuSWaWfg"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Usain Bolt",
+"FWSMgDoM2qw"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"David Beckham",
+"kRHOk5r7BQE"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Karim Benzema",
+"flIx7138Xis"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Lewis Hamilton",
+"1_FFsqixXpI"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Fernando Alonso",
+"cfBhXt5KVJY"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Eden Hazard",
+"QkT6cZJp5Zo"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Chicharito Hernández",
+"MI1dW7_nv10"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Football Players",
+"cfdHbeznEFc"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Ana Ivanovic",
+"AZD5QN40-cw"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Adam Jones",
+"D9vJLm_-25Y"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Kaká",
+"omUqriRKC2A"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Jorge Lorenzo",
+"aeGQf1DDAz8"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"David Luiz",
+"-Y6XuZIw0Rc"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Diego Maradona",
+"riluwdZe7rU"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Felipe Massa",
+"ci6-B3Q5mEk"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Lionel Messi",
+"qEGK7kenkDI"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"José Mourinho",
+"bFLz76BoRb0"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Alexandre Pato",
+"8NbiI5fMj9s"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Gerard Piqué",
+"Tg_f-dGZhck"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Cesare Prandelli",
+"AVeOLst4s3U"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Cristiano Ronaldo",
+"QGjaG6O8yCY"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Valentino Rossi",
+"uHFO28LH450"
+);
+/***********************************/
+/***********************************/
+data[l].addSport(
+"Thiago Silva",
+"I84xK-ARQQQ"
+);
+/***********************************/
+/***********************************************************************************************/
+/***********************************/
+data[l].addOther(
+"Matteo Renzi",
+"O618QtaSnnw"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Beatrice Lorenzin",
+"RNjhPOCKzFk"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Andrea Agnelli",
+"DgQIwogQnko"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Adriano Galliani",
+"HqeBPYYXXzc"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Video Divertenti",
+"zoqyuNB9Mdg"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"theShow",
+"2LlYsZPMOfY"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Punti di Vista",
+"0Mca10VYQJY"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Steve Ballmer",
+"cKnPRosLKpg"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Satya Nadella",
+"3YDxB6hXWYc"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Jeff Bezos",
+"DFVezzjAhFY"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Larry Page & Sergey Brin",
+"-BloJ6DFxkE"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Tim Cook",
+"M_T1K7pFsI0"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Bill Gates",
+"XS6ysDFTbLU"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Bob Parsons",
+"EScchCJxbAM"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Mark Zuckerberg",
+"XS6ysDFTbLU"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Samsung Galaxy S5",
+"6w4Gqt-ljb4"
+);
+/***********************************/
+/***********************************/
+data[l].addOther(
+"Stephen King",
+"XO7lFV2e-xA"
+);
+/***********************************/
